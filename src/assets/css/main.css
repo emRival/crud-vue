@@ -1,0 +1,35 @@
+#app{
+    font-family: 'Montserrat', sans-serif;
+}
+.router-link-exact-active {
+    color: #42b983;
+    font-weight: bold;
+}
+
+.btn-success .badge-success {
+    background-color: #42b983;
+    color: #fff;
+}
+
+
+
+.breadcrumb-item{
+    color: black;
+}
+
+
+.breadcrumb-item.active {
+    color: #42b983;
+    font-weight: bold;
+}
+
+/* .nav-keranjang{
+    /display: flex;
+    align-items: flex-end;
+    display: inline;
+    float: end;
+} 
+.nav-link{
+    display: inline;
+    float: end;
+} */
