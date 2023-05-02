@@ -25,6 +25,7 @@ https://github.com/typicode/json-server
 
 ## run api from database/db.json
 ```
+cd database
 json-server --watch db.json
 ```
 
